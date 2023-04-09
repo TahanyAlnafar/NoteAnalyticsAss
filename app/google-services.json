@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "555779888309",
+    "project_id": "fireanalaytics",
+    "storage_bucket": "fireanalaytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555779888309:android:682c475142c8322de39afc",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationanalystic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555779888309-67fkn7u6ossr783u1i1bcdpn8k9cp5hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOGURQa1RxuXUQ7znxOXkvZVtKqma_rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555779888309-67fkn7u6ossr783u1i1bcdpn8k9cp5hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555779888309:android:ad80658cebf20731e39afc",
+        "android_client_info": {
+          "package_name": "com.example.noteanalyticsass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555779888309-67fkn7u6ossr783u1i1bcdpn8k9cp5hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOGURQa1RxuXUQ7znxOXkvZVtKqma_rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555779888309-67fkn7u6ossr783u1i1bcdpn8k9cp5hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
